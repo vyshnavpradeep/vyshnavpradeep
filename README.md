@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I think I am funny**
 
 <h2 align="center">Connect with Me</h2>
-<p align="center">
+<p align="center" style=display:flex>
   <a href="https://linkedin.com/in/vyshnav-pradeep1708552ab" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
@@ -144,4 +144,4 @@
     </td>
     <td align="center" width="140">
       <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="50" height="50"/><br
