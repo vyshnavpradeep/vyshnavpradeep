@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I think I am funny**
 
 <h2 align="center">Connect with Me</h2>
-<div style="display: flex; justify-content: center;">
+<div style="display: inline;" >
 <p align="center">
 
   <a href="https://linkedin.com/in/vyshnav-pradeep1708552ab" target="_blank">
